@@ -1,0 +1,59 @@
+[
+    {
+      "first_name": "Max",
+      "last_name": "Maximilian",
+      "age": 1.7,
+      "role": "student",
+      "additional_data": {
+        "avarage_mark": 5
+      }
+    },
+    {
+        "first_name": "Vasya",
+        "last_name": "Pupkin",
+        "age": 38,
+        "role": "teacher",
+        "additional_data": {
+          "exp_month": 18,
+          "salary": {
+            "amount": 800,
+            "currency": "UAH" 
+          }
+        }
+      },
+      {
+        "first_name": "NeVasya",
+        "last_name": "Pupkin",
+        "age": 20,
+        "role": "teacher",
+        "additional_data": {
+          "exp_month": 38,
+          "salary": {
+            "amount": 1000,
+            "currency": "UAH" 
+          }
+        }
+      },
+      {
+        "first_name": "Jana",
+        "last_name": "Jabovna",
+        "age": 68,
+        "role": "director",
+        "additional_data": {
+          "exp_month": 228,
+          "salary": {
+            "amount": 1500,
+            "currency": "UAH" 
+          }
+        }
+      },
+      {
+        "first_name": "Mark",
+        "last_name": "Glushko",
+        "age": 20,
+        "role": "student",
+        "additional_data": {
+          "avarage_mark": 5
+        }
+      }
+  ]
